@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/955
     wikipedia: http://en.wikipedia.org/wiki/Alfred_Russel_Wallace
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15998#Alfred-Russel-Wallace--Letters-and-Reminiscences-Vol.-2
 gutenberg_issued: '2005-06-07'
 gutenberg_type: Text
 identifiers:
